@@ -1,0 +1,9 @@
+{
+  "name": "haiku-generator",
+  "version": "0.0.1",
+  "author": "Jonathan lam <jonathanlamdev@gmail.com>",
+  "dependencies": {
+    "request": "^2.83.0"
+  },
+  "license": "MIT"
+}
